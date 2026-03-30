@@ -1,5 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Ballerina (2016)" tvg-name="Inception" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/qBxMhcmNnFniuDAZTKEHcSgKtsn.jpg" group-title="Movies",Ballerina
+#EXTVLCOPT:sub-file=https://dl.opensubtitles.org/en/download/sub/11393578
 https://ployan.me/hls/a100388b73ae7362-97d1e2ec62a6e5d31a21999c-b5d6c4ee9e5cf890bbcadd3161127ee25ad06de05c34ca3067961782ce39e2d5b6707edabb52cfe6/master.m3u8
 
