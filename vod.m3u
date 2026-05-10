@@ -1,6 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Swapped (2026)" tvg-name="Inception" tvg-logo="https://www.imdb.com/title/tt29552248/mediaviewer/rm1228986114/?ref_=tt_ov_i",Swapped
-#EXTVLCOPT:sub-file=https://www.opensubtitles.com/en/subtitles/swapped-2026-1080p-web-h264-grace
-https://leadgenerationblueprint.site/VmxrmarW5/pl/H4sIAAAAAAAAAw3OS3KCMAAA0CslBNB0V6cJSksoMR_Njnw6jCSI2FHG07fvBM9uy.B.cGkDBBuXhW1fQLxxwQK4BRiBtx6wWpAxUxW_9VrtmyMmlqiWy_uio7l.gcPi0I6yRFGr55PXHDIUr.JkyuajWw2BCwNybcB5beiIHOJ1P_nCUSY65GsuuZaQQp94tHIuFRzmTjCqJ49cNLdjpgpWQWFI0bGRgHCpv88SJ3MZlobS1n_wT14NiYH84YCv1f794UcaNYmz.A_aaR6DGqBKDjR0yH01PGxa7woxavRv9IkeQ4WhS2Y86wK5SeYqK6LL8D3EMW8FP_B0eAYCnirLVwN3jb.oV6_x07wA_gPHHfoCQQEAAA--/master.m3u8
-
+#EXTINF:0 group-title="FILM", Swapped
+#EXTVLCOPT:network-caching=1000
+https://leadgenerationblueprint.site/VmxrmarW5/pl/H4sIAAAAAAAAAw3PUXKCMBAA0CsFQlT6SRUiApWQbCR_wDpCkyqtjCKnrzd4j61Cj1HEoAtot_ZbFnabcL1qkFD0zl3w0ZxyAnbzkhx58ZqGWs9CJyYHV9xxgbGWF9KCe9RSZEp5vQTYmyTlSMeDJP1c8ChV1uMtj6BNnkuhw534dqwEV7XXPsAfEVVVqHCraKPSopHFTXoxQz1GgnhLSTFqLAx5nAbamaS91s.MKl_69aPZ4l.uEb60U2.PMMPkV8r9VvG4Lf257.z0gs87K8nNL.zIWojl2U4HTFimFTuYuM9KKsrzbmYVET0S0.CyWwSkR7O4FSaWvs8UY9x3rpv1yXBhzQAkPWrIFyVJ.A9bUcoxQQEAAA--/master.m3u8
